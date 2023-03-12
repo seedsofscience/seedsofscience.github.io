@@ -1,0 +1,5 @@
+<meta name="citation_title" content="How to Escape From the Simulation">
+<meta name="citation_author" content="Roman Yampolskiy">
+<meta name="citation_publication_date" content="2023">
+<meta name="citation_journal_title" content="Seeds of Science">
+<meta name="citation_pdf_url" content="http://files.theseedsofscience.org/2023/How_to_Escape_From_the_Simulation.pdf">
