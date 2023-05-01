@@ -1,5 +1,0 @@
-<meta name="citation_title" content="Is a Qualitative Metric of Falsifiability Possible?">
-<meta name="citation_author" content="Dan James">
-<meta name="citation_publication_date" content="2023">
-<meta name="citation_journal_title" content="Seeds of Science">
-<meta name="citation_pdf_url" content="http://files.theseedsofscience.org/2023/Is_a_qualitative_metric_of_falsifiability_possible.pdf">
